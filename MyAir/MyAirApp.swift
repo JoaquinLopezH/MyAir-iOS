@@ -12,6 +12,7 @@ struct AirCastApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //Dentro de esta tab solo va content view por cuestions de optimización.
         }
     }
 }
