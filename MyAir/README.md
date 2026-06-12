@@ -10,7 +10,6 @@ App nativa de iOS diseñada para monitorear y visualizar la **calidad del aire e
 * 🔒 **Permisos del Sistema:** Configuración nativa y segura de acceso a la cámara mediante las llaves de privacidad correspondientes (`Privacy - Camera Usage Description`).
 
 ## Tecnologías Utilizadas 
-* **Lenguaje:** Swift 5.10
-* **Framework de Interfaz:** SwiftUI
+* **Lenguaje:** Swift 5.10 - SwiftUI
 * **Frameworks de AR:** ARKit, RealityKit
 * **Despliegue mínimo:** iOS 17.0+
