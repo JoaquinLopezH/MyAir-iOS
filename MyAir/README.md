@@ -1,5 +1,5 @@
-#  <#Title#>
-# # MyAir 🚀 🌬️
+
+# MyAir 🚀 🌬️
 
 App nativa de iOS diseñada para monitorear y visualizar la **calidad del aire en la Zona Metropolitana de Monterrey** en tiempo real, utilizando experiencias de **Realidad Aumentada (AR)** para concientizar sobre la contaminación ambiental de una manera inmersiva.
 
@@ -14,5 +14,3 @@ App nativa de iOS diseñada para monitorear y visualizar la **calidad del aire e
 * **Framework de Interfaz:** SwiftUI
 * **Frameworks de AR:** ARKit, RealityKit
 * **Despliegue mínimo:** iOS 17.0+
-
-## Requisitos de Instalación y Uso ⚙️
